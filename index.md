@@ -1,6 +1,7 @@
 # Welcome to NPTU-CNC Problem Report Page
 
-If you have any problem or something question,please create an issue and we will answer you (If you are not the maintainer of NPTU-CNC)
+If you have any problem or something question,please create an issue and we will answer you   (If you are not the maintainer of NPTU-CNC)
+
 如果你有任何問題或是疑問請在此專案建立一個討論(issue)，我們將會給予答覆(如果你不是NPTU-CNC的維護人員)
 
 
